@@ -1,0 +1,137 @@
+﻿.MensajeAviso_process {
+    background-color: #ffffff;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 19001;
+    border: 1px solid black;
+    width: 400px;
+    height: 72px;
+    box-shadow: grey 0px 0px 10px 2px;
+}
+
+.MensajeAviso {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 19001;
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    box-shadow: grey 0px 0px 10px 2px;
+}
+
+    .MensajeAviso .cabecera {
+        padding: 10px;
+        border-bottom: 2px solid #47a447;
+    }
+
+        .MensajeAviso .cabecera button {
+            background: transparent;
+            border: 0;
+            float: right;
+            font-weight: bold;
+            line-height: 1;
+            color: #000000;
+            opacity: 0.4;
+            cursor: pointer;
+        }
+
+        .MensajeAviso .cabecera h4 {
+            margin: 0;
+            font-size: 16px;
+        }
+
+    .MensajeAviso .body {
+        height: 95px;
+        border-bottom: 1px solid #e5e5e5;
+        padding: 10px;
+    }
+
+    .MensajeAviso_process .body_process {
+        height: 72px;
+    }
+
+        .MensajeAviso .body p {
+            margin-left: 85px;
+            font-size: 12px;
+        }
+
+        .MensajeAviso .body .imagen_aviso {
+            float: left;
+            width: 72px;
+            height: 72px;
+            background-image: url('/./images/warning.png');
+        }
+
+        .MensajeAviso .body .imagen_error {
+            float: left;
+            width: 72px;
+            height: 72px;
+            background-image: url('/./images/error.png');
+        }
+
+        .MensajeAviso .body .imagen_info {
+            float: left;
+            width: 72px;
+            height: 72px;
+            background-image: url('/./images/info.png');
+        }
+
+        .MensajeAviso .body .imagen_question {
+            float: left;
+            width: 72px;
+            height: 72px;
+            background-image: url('/./images/question.png');
+        }
+
+.MensajeAviso_process .body_process .gif_proceso {
+    /*float: left;*/
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translateX(-36px);
+    width: 100%;
+    height: 100%;
+    background-image: url('/./images/process.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+    .MensajeAviso .footer {
+        text-align: right;
+    }
+
+        .MensajeAviso .footer button {
+            padding: 6px 12px;
+            font-weight: normal;
+            text-align: center;
+            border-radius: 4px;
+            border: 2px solid #428bca;
+            background-color: none;
+            color: black;
+            margin: 6px;
+            cursor: pointer;
+        }
+
+            .MensajeAviso .footer button:hover {
+                background-color: #428bca;
+                color: white;
+            }
+
+.contenedor_mensaje {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #000;
+    opacity: 0.4;
+    z-index: 19000;
+}

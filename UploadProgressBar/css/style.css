@@ -1,0 +1,169 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contenedor {
+    padding: 10px;
+    margin-left: 300px;
+    margin-top: 300px;
+    width: 500px;
+    height: auto;
+    display: block;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 3px grey;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+/*'TEST-INICIO*/
+/*#fileToUpload {
+    width: 100%;
+}*/
+/*'TEST-FIN*/
+
+.caracteristicas {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e08a4d;
+    border-radius: 10px;
+    border: 2px solid orangered;
+}
+
+.invisible {
+    display: none;
+}
+
+.caracteristicaFichero {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    display: block;
+    font-size: small;
+}
+
+.etiquetaPrincipal {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.botonera {
+    width: auto;
+    position: relative;
+    top: 20px;
+    padding-bottom: 10px;
+}
+
+.izda {
+    margin-right: 45px;
+}
+
+.drcha {
+    margin-left: 45px;
+}
+
+.boton {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-weight: bold;
+    background-color: #cbc3c3;
+}
+
+    .boton:hover {
+        background-color: black;
+        color: white;
+    }
+
+#progressNumber {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#myProgress {
+    width: 100%;
+    background-color: grey;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#myBar {
+    width: 0%;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+}
+
+/*TEST-INICIO*/
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    /* 20px */
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+    /* 10px 20px */
+}
+
+/*.inputfile:focus + label,
+.inputfile.has-focus + label {
+    outline: 1px dotted #000;
+    outline: -webkit-focus-ring-color auto 5px;
+}*/
+
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    /* 4px */
+    margin-right: 0.25em;
+    /* 4px */
+}
+
+
+.inputfile-3 + label {
+    color: #d3394c;
+    border: 2px solid #d3394c;
+    border-radius: 10px;
+}
+
+    .inputfile-3:focus + label,
+    .inputfile-3.has-focus + label,
+    .inputfile-3 + label:hover {
+        color: #722040;
+        background-color: #d3394c;
+        border: 2px solid #722040;
+    }
+
+.box {
+    text-align: center;
+}
+/*TEST-FIN*/
