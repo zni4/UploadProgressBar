@@ -1,0 +1,120 @@
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.dll.config
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.pdb
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.xml
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.exe
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.exe.config
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.rsp
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.exe
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.exe.config
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.rsp
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.AppContext.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Console.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Compression.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Claims.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.ValueTuple.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.exe
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.exe.config
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.rsp
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\VBCSCompiler.exe
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbprojAssemblyReference.cache
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.Resources.resources
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.GenerateResource.cache
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.CopyComplete
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.dll
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.xml
+C:\Users\inogueiraz\Desktop\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.pdb
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.dll.config
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.pdb
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\UploadProgressBar.xml
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.exe
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.exe.config
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csc.rsp
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.exe
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.exe.config
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\csi.rsp
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.AppContext.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Console.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Compression.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Claims.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.ValueTuple.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.exe
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.exe.config
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\vbc.rsp
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\VBCSCompiler.exe
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbprojAssemblyReference.cache
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.Resources.resources
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.GenerateResource.cache
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.vbproj.CopyComplete
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.dll
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.xml
+C:\Users\ignac\OneDrive\Desarrollo web\UploadProgressBar\UploadProgressBar\obj\Debug\UploadProgressBar.pdb
